@@ -33,15 +33,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/rafik021dev/rafik021dev/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rafik021dev.rafik021dev&left_color=lightseagreen"  />
 </div>
 
-###
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
