@@ -33,7 +33,5 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rafik021dev.rafik021dev&left_color=lightseagreen"  />
-</div>
+
 
